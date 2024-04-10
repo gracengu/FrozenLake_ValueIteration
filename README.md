@@ -74,7 +74,6 @@ With only 14 steps, the player reaches the goal.
 # To setup the environment:
 
 ```bash
-pip install virtualenv
 conda create -n elevator_py38 --python=3.8
 conda activate elevator_py38
 pip install -r requirement.txt
